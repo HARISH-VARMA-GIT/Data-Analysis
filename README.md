@@ -1,2 +1,2 @@
 # Data-Analysis
-Data Analysis and Prediction on a data set
+The Project is about performing an Exploratory Data Analysis and Prediction using basic Python Libraries on Loan Prediction Data set
